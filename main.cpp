@@ -1,7 +1,5 @@
 #include <iostream>
 #include <string>
-#include <math.h>
-#include <random>
 using namespace std;
 
 void Run();
